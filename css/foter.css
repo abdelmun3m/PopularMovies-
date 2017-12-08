@@ -1,0 +1,15 @@
+
+#foter{
+	clear: both;
+	width: 100%;
+	height: 100px;
+	background-color: #081c24;
+	color: #01d277;
+	font-size: 24px; 
+
+}
+#foter p{
+	clear: both;
+	display: block;
+	text-align: center;
+}

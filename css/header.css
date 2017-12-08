@@ -1,0 +1,47 @@
+
+
+
+
+/* 
+	/* background-color: ##01d277; green
+	background-color: #081c24; dark
+ */
+
+
+#header{
+background-color: #081c24;
+/* height: 90px; */
+padding: 8px 0px 8px 0px;
+position: fixed;
+width: 100%;
+top: 0px;
+}
+
+
+#header div{
+	float: left;
+	/* height: 100px; */
+}
+
+#header img{
+	float: left;
+	margin-left: 130px;
+	height: 80px;
+}
+
+#header p{
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+	color: white;
+	font-weight: bold;
+}
+a{
+
+	text-decoration: none;
+	color: white
+
+}
+a:hover{
+	color: #01d277;
+}

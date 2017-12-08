@@ -1,0 +1,57 @@
+*{
+
+	padding: 0px;
+	margin: 0px;
+}
+
+/* 
+	/* background-color: ##01d277; green
+	background-color: #081c24; dark
+ */
+
+
+
+
+#myform{
+	clear: both;
+	margin: 150px auto; 
+	width: 80%;
+	border-radius: 10px;
+	text-align: center;
+}
+form{
+	width: 100%;
+	height: 100%;
+}
+
+.field{
+	border-bottom: 1px solid #01d277;
+	margin-bottom: 20px;
+	padding:8px;
+}
+
+.field p{
+	text-align: left;
+	font-size: 20px;
+	font-style: italic;
+	color: #081c24;
+}
+
+.field input{
+	width: 80%;
+	height: 30px;
+	margin: 8px;
+}
+
+#submitDiv{
+	text-align: center;
+}
+
+#submit{
+	
+	width: auto;
+	height: auto;
+	padding: 8px;
+}
+
+

@@ -1,0 +1,82 @@
+*{
+
+
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+/* 
+	/* background-color: ##01d277; green
+	background-color: #081c24; dark
+ */
+
+
+
+#mainSection{
+	margin: 120px 10px;
+	text-align: center;
+
+}
+
+.movie{
+	
+	width: 210px;
+	/* height: 350px; */
+	float: left;
+	border: 1px solid #081c24;
+	text-align: center;
+	margin: 20px;
+	padding-bottom: 10px;
+	border-radius: 20px;
+}
+.movie:hover{
+
+	/* opacity: 0.5; */
+	padding-bottom: 8px;
+	border-width: 2px;
+	border-color: #01d277;
+}
+.name, .shortDescription{
+	height: 20px;
+	margin: 10px;
+	color: #081c24;
+	font-style: italic;
+	font-weight: bold;
+
+} 
+.image{
+
+}
+.image img{
+	width: 200px;
+	height: 250px;
+}
+.shortDescription{
+	overflow: hidden;
+	font-size: 12px;
+	font-style: normal;
+}
+
+.btnDetails{
+
+
+}
+
+.btnDetails a{
+
+	text-decoration: none;
+	color: #081c24;
+
+}
+.btnDetails a button{
+	width:110px; 
+	height: 40px;
+	background-color: #01d277;
+	/* padding: 10px */;
+	border-radius: 50px;
+	
+}
+
